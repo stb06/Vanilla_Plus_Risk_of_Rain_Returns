@@ -1,3 +1,6 @@
+`1.2.1`
+- Moved download page to GitHub.
+
 `1.2.0`
 
 **Before installing please go to a profile then disable the download cache in settings.**
