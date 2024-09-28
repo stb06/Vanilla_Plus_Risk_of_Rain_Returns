@@ -172,6 +172,9 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Vanilla_Plus_Risk_of_Rain_Returns/changelog) tab
 
+`1.2.3`
+- Actually shortened text in 'Contact Me'.
+
 `1.2.2`
 - Fixed spacing and shortened text in 'Contact Me'.
 
