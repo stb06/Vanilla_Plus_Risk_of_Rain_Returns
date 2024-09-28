@@ -171,6 +171,9 @@ If you are a developer of a mod that can bring this modpack closer to RoRR, plea
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Vanilla_Plus_Risk_of_Rain_Returns/changelog) tab
 
+`1.2.1`
+- Moved download page to GitHub.
+
 `1.2.0`
 
 **Before installing please go to a profile then disable the download cache in settings.**
