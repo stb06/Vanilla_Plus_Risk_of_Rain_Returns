@@ -1,6 +1,6 @@
 # Main Changes
 - Changed music that plays in the menu, on all stages, during teleporter events, and during boss fights.
-- All teleporter events now have 3 possible music tracks.
+- Nearly all teleporter events now have 3 possible music tracks.
 - Nearly all survivors in RoRR are added.
 - New skins are added.
 - Abilities closest to ones in RoRR are added.
@@ -172,6 +172,9 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Vanilla_Plus_Risk_of_Rain_Returns/changelog) tab
 
+`1.2.4`
+- Corrected 'Main Changes'.
+
 `1.2.3`
 - Actually shortened text in 'Contact Me'.
 
@@ -310,6 +313,3 @@ Full changelog in [changelog](https://thunderstore.io/package/stb06/Vanilla_Plus
 	- Added to the base game as an umbrella setting.
 - Removed EviscerateFix, ArtificerPrimaryRangeFix, and DoubleTapFix.
 	- Replaced with RiskyFixes.
-
-`1.1.2`
-- Made enemies and bosses that probably wouldn't be able to jump in RoRR unable to jump.
