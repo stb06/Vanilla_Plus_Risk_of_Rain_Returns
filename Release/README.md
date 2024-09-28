@@ -42,7 +42,7 @@ To report an issue or inform me of a mod that should be added or a setting that 
 - Message me on Discord @stb06.
 - Email me at stb06YT@gmail.com.
 
-If you're a developer of a mod that can bring this modpack closer to RoRR, please tell me about it, and if you're willing to add a feature or setting to your mod, please look at Known Issues or talk to me about it.
+If you are a developer of a mod that can bring this modpack closer to RoRR, please tell me about it, and if you're willing to add a feature or setting to your mod, please look at Known Issues or talk to me about it.
 ## Known Issues (likely needs a mod added or setting changed to fix)
 <details><summary>Survivors/Skills</summary>
 
@@ -171,6 +171,9 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Vanilla_Plus_Risk_of_Rain_Returns/changelog) tab
+
+`1.2.2`
+- Fixed spacing and shortened text in 'Contact Me'.
 
 `1.2.1`
 - Moved download page to GitHub.
