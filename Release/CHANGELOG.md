@@ -1,3 +1,9 @@
+`1.2.3`
+- Actually shortened text in 'Contact Me'.
+
+`1.2.2`
+- Fixed spacing and shortened text in 'Contact Me'.
+
 `1.2.1`
 - Moved download page to GitHub.
 
