@@ -1,0 +1,12 @@
+{
+    "name": "Vanilla_Plus_Risk_of_Rain_Returns",
+    "version_number": "1.2.0",
+    "website_url": "https://drive.google.com/file/d/1uqBlN-URC5KKbv6ks55Xg3Bl3nb45CfB/view?usp=drive_link",
+    "description": "Adds, changes, and removes some content to give RoR2 a more RoRR feel without too many restrictions. Download the zip from the link and follow its instructions to install.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2117",
+        "RiskofThunder-RoR2BepInExPack-1.24.1",
+        "RiskofThunder-FixPluginTypesSerialization-1.0.4",
+        "RiskofThunder-BepInEx_GUI-3.0.3"
+    ]
+}
