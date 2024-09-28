@@ -41,7 +41,8 @@ To report an issue or inform me of a mod that should be added or a setting that 
 - [Submit an issue or pull request on GitHub](https://github.com/stb06/Vanilla_Plus_Risk_of_Rain_Returns).
 - Message me on Discord @stb06.
 - Email me at stb06YT@gmail.com.
-If you are a developer of a mod that can bring this modpack closer to RoRR, please tell me about it, and if you're willing to add a feature or setting to your mod, please look at Known Issues or talk to me about it.
+
+If you're a developer of a mod that can bring this modpack closer to RoRR, please tell me about it, and if you're willing to add a feature or setting to your mod, please look at Known Issues or talk to me about it.
 ## Known Issues (likely needs a mod added or setting changed to fix)
 <details><summary>Survivors/Skills</summary>
 
