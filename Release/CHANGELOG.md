@@ -1,3 +1,6 @@
+`1.2.4`
+- Corrected 'Main Changes'.
+
 `1.2.3`
 - Actually shortened text in 'Contact Me'.
 
