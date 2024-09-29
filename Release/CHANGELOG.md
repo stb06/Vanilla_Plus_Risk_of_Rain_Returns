@@ -1,3 +1,7 @@
+`1.2.8`
+- Updated EnemiesReturns to add Ifrit.
+- Added NemesisRobomando.
+
 `1.2.7`
 - Adjusted survivor sort order.
 
