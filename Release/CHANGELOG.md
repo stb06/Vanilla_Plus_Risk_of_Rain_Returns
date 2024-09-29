@@ -1,3 +1,6 @@
+`1.2.7`
+- Adjusted survivor sort order.
+
 `1.2.6`
 - Updated RobomandoMod and modified its settings to be accurate to RoRR.
 
