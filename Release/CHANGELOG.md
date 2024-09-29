@@ -1,3 +1,14 @@
+`1.2.5`
+- Added to 'Survivors' section of 'Known Issues'.
+	- Huntress's Phase Blink Skill cancels downwards momentum and fall damage.
+- Updated 1.2.0 changelog.
+- Temporarily enabled these items from ClassicItemsReturns until LostInTransit is updated.
+	- Mysterious Vial
+	- Energy Cell
+	- Golden Gun
+	- Thallium
+- Adjusted Huntress's Take Aim Skill.
+
 `1.2.4`
 - Corrected 'Main Changes'.
 
@@ -29,7 +40,6 @@
 - Replaced Abyssal Depths with Helminth Hatchery.
 - Replaced Scorched Acres with Aphelian Sanctuary.
 - Added Videogame_Mod_2_Unofficial.
-	- Once Starstorm2 is updated, I'll update the modpack to support it.
 - Added XSplitScreen.
 - Added MoreElites.
 	- Adds Frenzied and Volatile elites.
