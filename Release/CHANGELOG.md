@@ -1,3 +1,6 @@
+`1.2.6`
+- Updated RobomandoMod and modified its settings to be accurate to RoRR.
+
 `1.2.5`
 - Added to 'Survivors' section of 'Known Issues'.
 	- Huntress's Phase Blink Skill cancels downwards momentum and fall damage.
