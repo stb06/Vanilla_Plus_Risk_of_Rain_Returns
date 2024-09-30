@@ -1,3 +1,8 @@
+`1.2.10`
+- Added to 'Other' section of 'Known Issues'.
+	- Items can be picked up from a distance by manually picking them up.
+- Reverted money earned to vanilla value.
+
 `1.2.9`
 - Updated Starstorm2 and Videogame_Mod_2_Unofficial.
 - Added DynamicJump.
