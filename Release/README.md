@@ -173,6 +173,10 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Vanilla_Plus_Risk_of_Rain_Returns/changelog) tab
 
+`1.2.9`
+- Updated Starstorm2 and Videogame_Mod_2_Unofficial.
+- Added DynamicJump.
+
 `1.2.8`
 - Updated EnemiesReturns to add Ifrit.
 - Added NemesisRobomando.
