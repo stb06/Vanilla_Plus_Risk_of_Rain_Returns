@@ -1,3 +1,7 @@
+`1.2.9`
+- Updated Starstorm2 and Videogame_Mod_2_Unofficial.
+- Added DynamicJump.
+
 `1.2.8`
 - Updated EnemiesReturns to add Ifrit.
 - Added NemesisRobomando.
