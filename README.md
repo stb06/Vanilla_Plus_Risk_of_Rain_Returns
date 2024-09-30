@@ -155,6 +155,7 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 	- Requires custom difficulty mod that allows customizing multiple difficulties. Currently changing drizzle because it's the most different.
 - Drizzle doesn't give you $35 at the start of a run.
 - There is no very easy difficulty.
+- Items can be picked up from a distance by manually picking them up.
 - Opening the inventory blurs the screen.
 - Enemies and survivors have collision.
 	- Requires mod that removes collision.
@@ -173,42 +174,14 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Vanilla_Plus_Risk_of_Rain_Returns/changelog) tab
 
+`1.2.10`
+- Added to 'Other' section of 'Known Issues'.
+	- Items can be picked up from a distance by manually picking them up.
+- Reverted money earned to vanilla value.
+
 `1.2.9`
 - Updated Starstorm2 and Videogame_Mod_2_Unofficial.
 - Added DynamicJump.
-
-`1.2.8`
-- Updated EnemiesReturns to add Ifrit.
-- Added NemesisRobomando.
-
-`1.2.7`
-- Adjusted survivor sort order.
-
-`1.2.6`
-- Updated RobomandoMod and modified its settings to be accurate to RoRR.
-
-`1.2.5`
-- Added to 'Survivors' section of 'Known Issues'.
-	- Huntress's Phase Blink Skill cancels downwards momentum and fall damage.
-- Updated 1.2.0 changelog.
-- Temporarily enabled these items from ClassicItemsReturns until LostInTransit is updated.
-	- Mysterious Vial
-	- Energy Cell
-	- Golden Gun
-	- Thallium
-- Adjusted Huntress's Take Aim Skill.
-
-`1.2.4`
-- Corrected 'Main Changes'.
-
-`1.2.3`
-- Actually shortened text in 'Contact Me'.
-
-`1.2.2`
-- Fixed spacing and shortened text in 'Contact Me'.
-
-`1.2.1`
-- Moved download page to GitHub.
 
 `1.2.0`
 
