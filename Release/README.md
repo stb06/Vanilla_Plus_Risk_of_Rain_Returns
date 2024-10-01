@@ -168,11 +168,21 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 - Artifacts aren't hidden in each stage.
 - Music doesn't have a filter applied to it when dead.
 - Opening and ending cutscenes aren't changed.
+- Main menu and lobby aren't changed.
 
 </details>
 
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Vanilla_Plus_Risk_of_Rain_Returns/changelog) tab
+
+`1.2.11`
+- Added to 'Other' section of 'Known Issues'.
+	- Main menu and lobby aren't changed.
+- Added VanillaArtifactsPlus.
+	- Disabled Overloading Worms because Magma Worms can now be elite.
+- Added MinerSkillReturns.
+- Updated RobomandoMod, EnemiesReturns, and WolfoAlternateSkins.
+- Disabled XSplitScreen, DotParticleFix, and Judgement until updated.
 
 `1.2.10`
 - Added to 'Other' section of 'Known Issues'.
