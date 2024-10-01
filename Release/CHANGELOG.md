@@ -1,3 +1,12 @@
+`1.2.11`
+- Added to 'Other' section of 'Known Issues'.
+	- Main menu and lobby aren't changed.
+- Added VanillaArtifactsPlus.
+	- Disabled Overloading Worms because Magma Worms can now be elite.
+- Added MinerSkillReturns.
+- Updated RobomandoMod, EnemiesReturns, and WolfoAlternateSkins.
+- Disabled XSplitScreen, DotParticleFix, and Judgement until updated.
+
 `1.2.10`
 - Added to 'Other' section of 'Known Issues'.
 	- Items can be picked up from a distance by manually picking them up.
